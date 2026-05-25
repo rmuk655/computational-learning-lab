@@ -22,3 +22,31 @@ A collection of notebooks exploring:
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+
+## Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/<your-username>/computational-learning-lab.git
+```
+
+Move into the repository:
+
+```bash
+cd computational-learning-lab
+```
+
+Install required Python libraries:
+
+```bash
+pip install numpy matplotlib jupyter scikit-learn
+```
+
+Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+Open any notebook (`.ipynb`) and run the cells sequentially.
